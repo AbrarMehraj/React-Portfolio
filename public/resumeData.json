@@ -1,41 +1,37 @@
 {
   "main": {
-    "name": "Ahsan Nazir",
+    "name": "Abrar Mehraj",
     "occupation": "Frontend Developer/ ReactJS Developer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
-    "image": "IG_Ahsan.jpg",
-    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for network security, and a passion for coding. Now, I'm a Full Stack ReactJS Developer. HIRE ME! ",
+    "description": "Freelancer by Night.",
+    "image": "IG_Abrar.jpg",
+    "bio": "I am a Sports Person.  I am an athlete at heart, with an entrepreneurial spirit, a knack for network security, and a passion for coding. Now, I'm a Full Stack ReactJS Developer. HIRE ME! ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "ahsann599@gmail.com",
-    "phone": "+91 7006044501",
+    "email": "darabrar@outlook.com",
+    "phone": "+91 7006567003",
     "address": {
-      "street": "123 Main Street",
+      "street": "Zoonimar Babapora",
       "city": "Srinagar",
       "state": "JK",
-      "zip": "190001"
+      "zip": "190011"
     },
-    "website": "http://www.github.com/ehsann95",
-    "resumedownload": "https://drive.google.com/file/d/134SFzK6-cMk9mSnUDfiaCIt6X6kHf7_H/view?usp=sharing",
-    "message": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the     form below if you'd like to get in contact with me.",
+    "website": "http://www.github.com/abrarmehraj",
+    "resumedownload": "https://drive.google.com/file/d/1DyMsrPuMRUIiRY7TZO8Z9kNizn_BiUaC/view?usp=sharing",
+    "message": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/ahsan.n26",
+        "url": "https://www.facebook.com/ayaan.khan.09",
         "className": "fa fa-facebook"
       },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/ehsan-n95/",
-        "className": "fa fa-linkedin"
-      },
+
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ehsan_n95/",
+        "url": "https://www.instagram.com/abrar_ul__islam",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/ehsann95",
+        "url": "http://github.com/",
         "className": "fa fa-github"
       }
     ]
@@ -105,7 +101,6 @@
         "name": "Git",
         "level": "60%"
       }
-      
     ]
   },
   "portfolio": {
